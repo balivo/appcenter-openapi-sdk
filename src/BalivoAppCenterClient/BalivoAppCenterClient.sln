@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balivo.AppCenterClient", "Balivo.AppCenterClient\Balivo.AppCenterClient.csproj", "{1D1FC037-CE49-4254-85F1-CE266B3EB361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balivo.AppCenterClient.ConsoleTest", "Balivo.AppCenterClient.ConsoleTest\Balivo.AppCenterClient.ConsoleTest.csproj", "{25451879-EB59-4CFE-AE11-B2201E8C756C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D1FC037-CE49-4254-85F1-CE266B3EB361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1FC037-CE49-4254-85F1-CE266B3EB361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1FC037-CE49-4254-85F1-CE266B3EB361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1FC037-CE49-4254-85F1-CE266B3EB361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25451879-EB59-4CFE-AE11-B2201E8C756C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25451879-EB59-4CFE-AE11-B2201E8C756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25451879-EB59-4CFE-AE11-B2201E8C756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25451879-EB59-4CFE-AE11-B2201E8C756C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BF456F-2835-4FDE-9ACD-58E8568D4130}
+	EndGlobalSection
+EndGlobal
